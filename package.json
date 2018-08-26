@@ -1,0 +1,19 @@
+{
+  "name": "aircraft",
+  "version": "1.0.0",
+  "description": "aircraft sytem to queue and dequeue ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balamurugansp/Aircraft-System.git"
+  },
+  "author": "balamurugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balamurugansp/Aircraft-System/issues"
+  },
+  "homepage": "https://github.com/balamurugansp/Aircraft-System#readme"
+}
